@@ -1,0 +1,2 @@
+# resolvio
+dns lookup tool
